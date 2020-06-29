@@ -1,0 +1,10 @@
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\bin\Debug\netstandard2.0\Hamburger-MenuML.Model.deps.json
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\bin\Debug\netstandard2.0\Hamburger-MenuML.Model.dll
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\bin\Debug\netstandard2.0\Hamburger-MenuML.Model.pdb
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.csprojAssemblyReference.cache
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.AssemblyInfoInputs.cache
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.AssemblyInfo.cs
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.dll
+C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-MenuML.Model\obj\Debug\netstandard2.0\Hamburger-MenuML.Model.pdb
