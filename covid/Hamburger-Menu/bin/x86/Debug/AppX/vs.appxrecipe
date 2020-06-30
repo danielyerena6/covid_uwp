@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-06-30T00:58:47.853</Modified>
+      <Modified>2020-06-30T02:14:10.632</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Hamburger-Menu.exe">
       <PackagePath>entrypoint\Hamburger-Menu.exe</PackagePath>
-      <Modified>2020-06-30T00:58:42.507</Modified>
+      <Modified>2020-06-30T02:13:59.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\.nuget\packages\commonservicelocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
@@ -530,27 +530,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.357</Modified>
+      <Modified>2020-06-30T02:13:58.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.357</Modified>
+      <Modified>2020-06-30T02:13:58.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Themes\Generic.xbf">
       <PackagePath>Themes\Generic.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.357</Modified>
+      <Modified>2020-06-30T02:13:58.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\covid.xbf">
       <PackagePath>Views\covid.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.357</Modified>
+      <Modified>2020-06-30T02:13:58.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\predicciones.xbf">
       <PackagePath>Views\predicciones.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.356</Modified>
+      <Modified>2020-06-30T02:13:58.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\timeline.xbf">
       <PackagePath>Views\timeline.xbf</PackagePath>
-      <Modified>2020-06-30T00:58:42.357</Modified>
+      <Modified>2020-06-30T02:13:58.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -558,11 +558,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-06-30T00:24:57.734</Modified>
+      <Modified>2020-06-30T02:14:08.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Core\Hamburger-Menu.exe">
       <PackagePath>Hamburger-Menu.exe</PackagePath>
-      <Modified>2020-06-30T00:58:47.836</Modified>
+      <Modified>2020-06-30T02:14:10.571</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
