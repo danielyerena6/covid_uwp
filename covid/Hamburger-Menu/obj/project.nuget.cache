@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60Fw2u1cvzMJantq2M2S/fGcj8KwuqH8FhPVI+Wla1BH4IM79AzXtEuckwH64AgVGsf4T6V1m83s8s5t1HjvOA==",
+  "dgSpecHash": "2FElxsePWG/uQiv7iDa9JdHgGCZ2EN5uDng5C01HAPdrP2dnlrIYXdB9WSH6FDQZxjKlt1fYY93uONUFgia9Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\UWP\\Hamburger-Menu\\Hamburger-Menu\\Hamburger-Menu.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\Desktop\\covid\\covid\\Hamburger-Menu\\Hamburger-Menu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dan\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\microsoft.csharp\\4.0.0\\microsoft.csharp.4.0.0.nupkg.sha512",

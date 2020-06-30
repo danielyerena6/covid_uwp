@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>563af94a-309c-4910-9988-98d3002fa0f7</PackageIdentityName>
     <PackageIdentityPublisher>CN=J2DN</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Hamburger-Menu.exe">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Hamburger-Menu.exe">
       <PackagePath>entrypoint\Hamburger-Menu.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dan\.nuget\packages\commonservicelocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
@@ -355,73 +355,73 @@
     <AppxPackagedFile Include="C:\Users\Dan\.nuget\packages\windowsstatetriggers\1.1.0\lib\uap10.0\WindowsStateTriggers\Properties\WindowsStateTriggers.rd.xml">
       <PackagePath>WindowsStateTriggers\Properties\WindowsStateTriggers.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\COVID-19 Pandemic Timeline %28Worldwide%29 [24th June] %281%29.mp4">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\COVID-19 Pandemic Timeline %28Worldwide%29 [24th June] %281%29.mp4">
       <PackagePath>COVID-19 Pandemic Timeline %28Worldwide%29 [24th June] %281%29.mp4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\covid-19-main-image.jpg">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\covid-19-main-image.jpg">
       <PackagePath>covid-19-main-image.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\TEXTURA-COVID %281%29.jpg">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\TEXTURA-COVID %281%29.jpg">
       <PackagePath>TEXTURA-COVID %281%29.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Hamburger-Menu.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Hamburger-Menu.xr.xml">
       <PackagePath>Hamburger-Menu.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Themes\Generic.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Themes\Generic.xbf">
       <PackagePath>Themes\Generic.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Views\covid.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\covid.xbf">
       <PackagePath>Views\covid.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Views\predicciones.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\predicciones.xbf">
       <PackagePath>Views\predicciones.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Views\timeline.xbf">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Views\timeline.xbf">
       <PackagePath>Views\timeline.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\bin\x86\Debug\Core\Hamburger-Menu.exe">
+    <AppxPackagedFile Include="C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\bin\x86\Debug\Core\Hamburger-Menu.exe">
       <PackagePath>Hamburger-Menu.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

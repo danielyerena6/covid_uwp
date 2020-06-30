@@ -16055,11 +16055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\UWP\\Hamburger-Menu\\Hamburger-Menu\\Hamburger-Menu.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\covid\\covid\\Hamburger-Menu\\Hamburger-Menu.csproj",
       "projectName": "Hamburger-Menu",
-      "projectPath": "C:\\Users\\Dan\\UWP\\Hamburger-Menu\\Hamburger-Menu\\Hamburger-Menu.csproj",
+      "projectPath": "C:\\Users\\Dan\\Desktop\\covid\\covid\\Hamburger-Menu\\Hamburger-Menu.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\UWP\\Hamburger-Menu\\Hamburger-Menu\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\Desktop\\covid\\covid\\Hamburger-Menu\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

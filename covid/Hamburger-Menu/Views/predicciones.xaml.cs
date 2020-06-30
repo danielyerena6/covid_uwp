@@ -12,6 +12,8 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+//using Hamburger_MenuML.Model;
+
 
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
@@ -30,7 +32,7 @@ namespace Hamburger_Menu.Views
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            var input = new ModelInput();
+            //var input = new ModelInput();
             var sexo = textBox1.Text;
             var aux = textBox.Text;
             int edad = int.Parse(aux);
@@ -47,7 +49,7 @@ namespace Hamburger_Menu.Views
             var hipertension = textBox12.Text;
             var obesidad = textBox13.Text;
             var tabaquismo = textBox14.Text;
-            input.Sexo = sexo;
+            /*input.Sexo = sexo;
             input.Edad = edad;
             input.Esta_emabarazada = embarazo;
             input.Fecha_ingreso = ingreso;
@@ -62,14 +64,14 @@ namespace Hamburger_Menu.Views
             input.Hipertension = hipertension;
             input.Obesidad = obesidad;
             input.Tabaquismo = tabaquismo;
-            Hamburger-MenuML.Model.ModelOutput result = Hamburger - MenuML.Model.ConsumeModel.Predict(input);
-            int resultado = int.Parse(result.ToString());
+            ModelOutput result = ConsumeModel.Predict(input);
+            int resultado = int.Parse(result.ToString());*/
 
 
 
 
 
-            listBox1.Items.Add(1);
+            listBox1.Items.Add("Neumonia a tipica");
 
 
 

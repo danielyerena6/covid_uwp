@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZNCI7VfLCv/FPCod6F/VigMdwxi2j+3R2n+vZkNVewGJMz7JBj7L01vp3sS+p8F6aFZsoj1F+UNYAMQtaWKtA==",
+  "dgSpecHash": "wqy4m85DEV/i8JSGbwu/oEW1loz24OgwSk2sRag8iIEp8bxueaqLfxoNgB2n2xlYfJ5wWWPCNzS2pwHLsQ/tlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\UWP\\Hamburger-Menu\\Hamburger-MenuML.Model\\Hamburger-MenuML.Model.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\Desktop\\covid\\covid\\Hamburger-MenuML.Model\\Hamburger-MenuML.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dan\\.nuget\\packages\\lightgbm\\2.2.3\\lightgbm.2.2.3.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

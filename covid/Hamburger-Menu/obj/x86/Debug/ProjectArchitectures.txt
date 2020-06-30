@@ -1,1 +1,1 @@
-C:\Users\Dan\UWP\Hamburger-Menu\Hamburger-Menu\Hamburger-Menu.csproj;x86
+C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\Hamburger-Menu.csproj;x86

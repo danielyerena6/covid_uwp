@@ -13,7 +13,7 @@ namespace Hamburger_MenuML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"C:\Users\Dan\UWP-Samples\Hamburger-Menu\Hamburger-Menu\covid_cdmx.csv";
+        private static string TRAIN_DATA_FILEPATH = @"C:\Users\Dan\Desktop\covid\covid\Hamburger-Menu\covid_cdmx.csv";
         private static string MODEL_FILEPATH = @"C:\Users\Dan\AppData\Local\Temp\MLVSTools\Hamburger-MenuML\Hamburger-MenuML.Model\MLModel.zip";
         // Create MLContext to be shared across the model creation workflow objects 
         // Set a random seed for repeatable/deterministic results across multiple trainings.
@@ -48,7 +48,7 @@ namespace Hamburger_MenuML.ConsoleApp
             var dataProcessPipeline = mlContext.Transforms.Categorical.OneHotEncoding(new[] { new InputOutputColumnPair("sexo", "sexo"), new InputOutputColumnPair("esta_emabarazada", "esta_emabarazada"), new InputOutputColumnPair("fecha_ingreso", "fecha_ingreso"), new InputOutputColumnPair("fecha_inicio_sintomas", "fecha_inicio_sintomas"), new InputOutputColumnPair("fiebre", "fiebre"), new InputOutputColumnPair("tos", "tos"), new InputOutputColumnPair("diarrea", "diarrea"), new InputOutputColumnPair("vomito", "vomito"), new InputOutputColumnPair("diabetes", "diabetes"), new InputOutputColumnPair("epoc", "epoc"), new InputOutputColumnPair("asma", "asma"), new InputOutputColumnPair("hipertension", "hipertension"), new InputOutputColumnPair("obesidad", "obesidad"), new InputOutputColumnPair("tabaquismo", "tabaquismo") })
                                       .Append(mlContext.Transforms.Concatenate("Features", new[] { "sexo", "esta_emabarazada", "fecha_ingreso", "fecha_inicio_sintomas", "fiebre", "tos", "diarrea", "vomito", "diabetes", "epoc", "asma", "hipertension", "obesidad", "tabaquismo", "edad" }));
             // Set the training algorithm 
-            var trainer = mlContext.Regression.Trainers.LightGbm(new LightGbmRegressionTrainer.Options() { NumberOfIterations = 200, LearningRate = 0.0938414f, NumberOfLeaves = 73, MinimumExampleCountPerLeaf = 10, UseCategoricalSplit = false, HandleMissingValue = false, UseZeroAsMissingValue = false, MinimumExampleCountPerGroup = 10, MaximumCategoricalSplitPointCount = 32, CategoricalSmoothing = 20, L2CategoricalRegularization = 0.1, Booster = new GradientBooster.Options() { L2Regularization = 1, L1Regularization = 1 }, LabelColumnName = "diagnostico_probable", FeatureColumnName = "Features" });
+            var trainer = mlContext.Regression.Trainers.LightGbm(new LightGbmRegressionTrainer.Options() { NumberOfIterations = 200, LearningRate = 0.0805603f, NumberOfLeaves = 76, MinimumExampleCountPerLeaf = 10, UseCategoricalSplit = false, HandleMissingValue = false, UseZeroAsMissingValue = false, MinimumExampleCountPerGroup = 10, MaximumCategoricalSplitPointCount = 8, CategoricalSmoothing = 1, L2CategoricalRegularization = 1, Booster = new GradientBooster.Options() { L2Regularization = 1, L1Regularization = 0.5 }, LabelColumnName = "diagnostico_probable", FeatureColumnName = "Features" });
 
             var trainingPipeline = dataProcessPipeline.Append(trainer);
 
